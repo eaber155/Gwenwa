@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Gwenwa</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_more">MoreActivity</string>
+    <string name="title_activity_direction">DirectionActivity</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_monitor_growth">Monitor Growth</string>
+    <string name="title_activity_access_doctor">Access Doctor</string>
+    <string name="title_activity_forum">The Forum</string>
+
+    <!--home screen-->
+    <string name="home_title">gwenwa</string>
+    <string name="home_button_string">Click To Launch</string>
+    <string name="back_button">Back</string>
+
+    <!--gwenwa screen-->
+    <string name="gwenwa_prompt">Everything you need... Just a Click away</string>
+    <string name="gwenwa_info">Information</string>
+    <string name="gwenwa_monitor">Monitor Growth</string>
+    <string name="gwenwa_access">Access Doctor</string>
+    <string name="gwenwa_forum">The Forum</string>
+
+    <!--information screen-->
+    <string name="info_prompt">For the latest poultry info...</string>
+    <string name="info_price">Prices</string>
+    <string name="info_Feeds">Feeds</string>
+    <string name="info_methods">Methods of Poultry Farming</string>
+    <string name="info_schedule">Schedule Vaccination</string>
+
+    <!--monitor growth screen-->
+    <string name="monitor_recent">Most Recent Monitor</string>
+    <string name="monitor_now">Monitor Now</string>
+    <string name="monitor_growth_curve">Show Growth Curve</string>
+
+    <!--forum screen-->
+    <string name="forum_start_discussion_prompt">Start Discussion</string>
+    <string name="forum_discussion_title">Discussion:</string>
+    <string name="forum_disussion_ongoing">Ongoing Discussion:</string>
+    <string name="forum_hint">write comment</string>
+    <string name="forum_post_button_text">Post</string>
+
+
+</resources>
